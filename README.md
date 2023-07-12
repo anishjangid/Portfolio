@@ -1,3 +1,4 @@
+![Screenshot 2023-07-12 134059](https://github.com/anishjangid/Portfolio/assets/78318783/23fc780f-82c5-495c-bd9a-36ddbdfe7b99)
 # Personal Portfolio Website in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
