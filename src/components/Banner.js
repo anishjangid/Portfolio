@@ -56,8 +56,8 @@ export const Banner = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio👋</span>
-                <h1>{`Hi! I'm Anish`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "software Devloper", "Team Leader" ]'><span className="wrap">{text}</span></span></h1>
-                <p>My fullname is Anish Jangid. I'm 22 years old. I study at National Institue of Technology, Rourkela. Currently, I am in my final year pursuing B.tech in Computer Science and Engineering. I am a Full Stack developer. I can make awesome websites using MERN stack.👨‍💻
+                <h1>{`Hi! I'm Anish`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Full-Stack Developer", "Software Devloper" ]'><span className="wrap">{text}</span></span></h1>
+                <p>My fullname is Anish Jangid. I have completed my Bachelors in Computer Science and Engineering from National Institue of Technology, Rourkela(2024). I am a Full Stack developer👨‍💻
            
           
         </p>
