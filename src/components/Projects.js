@@ -23,7 +23,7 @@ export const Projects = () => {
       imgUrl: projImg2,
     },
     {
-      description: "Drum Kit using Vanilla JavaScript",
+      description: "Invoice management system using Next JS and Fast API",
       imgUrl: projImg3,
     },
     {
